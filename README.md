@@ -56,4 +56,4 @@ navegador.
 
 - Deploy realizado na vercel
 
-Você pode acessar a aplicação [Acesse aqui](https://moveit-williandf.vercel.app/){:target="blank" rel="noopener"}.
+Você pode acessar a aplicação [Acesse aqui](https://moveit-williandf.vercel.app/).
